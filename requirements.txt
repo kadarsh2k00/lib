@@ -1,2 +1,2 @@
-Pillow
-PyMySql
+Pillow==7.2.0
+PyMySQL==0.9.3
